@@ -6,8 +6,8 @@ Esclareça suas dúvidas.<br>
 ### Atividade (data limite: **xx/xx/2021 23h59min59s**)
 
 1. Criar conta no Github (https://github.com), caso não possua uma. 
-1. **Na sua conta do GitHub**, criar um repositório necessariamente '**publico**' de nome **bd-2021-1-bcc**:
-   - ou seja, letras minúsculas e hífen para separação: **bd**, **2021**, **1** e **bcc**;
+1. **Na sua conta do GitHub**, criar um repositório necessariamente '**publico**' de nome **bd-2021-1-bia**:
+   - ou seja, letras minúsculas e hífen para separação: **bd**, **2021**, **1** e **bia**;
    - então, a URL do repositório será https://github.com/nomealuno/bd-2021-1-bia, onde **nomealuno** é o nome da conta do aluno no Github.
 1. Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bia. Esta _issue_ irá identificar cada estudante da disciplina:
    - o título da _issue_ deve ser "Tópico 01";
