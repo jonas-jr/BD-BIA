@@ -10,11 +10,15 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/kii-hqax-rwx]
 
 ### Tópicos com atividades ativas
 
-- Por favor, aguarde ...
+- [Tópico 01](./topicos/topico-01.md) (Data limite: xx/xx/2021 23:59:59)<br>
+- [Tópico 02](./topicos/topico-02.md) (Data limite: xx/xx/2021 23:59:59)<br>
+- [Tópico 03](./topicos/topico-03.md) (Data limite: xx/xx/2021 23:59:59)<br>
+- [Todos os tópicos](topicos/topicos.md)
 
 ### Avisos ativos
 
-1. Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
+- Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
+- Importante: O **Tópico T01** se refere à criação de um repositório **público** no **GitHub** para cada aluno.
 <br>
 <br>
 <img src="./media/franki-chamaki-1K6IQsQbizI-unsplash.jpg" width="350">
