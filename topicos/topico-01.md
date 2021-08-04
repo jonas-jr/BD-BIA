@@ -1,6 +1,6 @@
 ### [Tópico T01] - Ambientação com a disciplina (objetivos e metodologia)
 
-Leia o [plano](../media/bd-2021-1-bcc-plano.pdf).<br>
+Leia o [plano](../media/bd-2021-1-bia-plano.pdf).<br>
 Esclareça suas dúvidas.<br>
 
 ### Atividade (data limite: **09/08/2021 23h59min59s**)
