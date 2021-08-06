@@ -34,7 +34,7 @@ O **acesso** e a **interpretação** dos dados são, essencialmente, baseados no
 
 No contexto da área de Banco de Dados, a literatura usa vários termos para se referir aos metadados, alguns deles são: *esquema de dados*, *descrição de dados*, *definição dos dados*, *dicionário de dados*, *catálogo de dados*.
 
-## Atividade (data limite: **xx/xx/2021 23h59min59s**)
+## Atividade (data limite: **09/08/2021 23h59min59s**)
 
 Considere o conteúdo do texto [Types of Metadata](../media/types-of-metadata.pdf). Leia e releia o texto.<br>
 Observe que a tabela na segunda página do texto possui 06 linhas, cada linha se refere a um tipo de metadados, conforme a seguir (identificados de 1 a 6):
