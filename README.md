@@ -6,9 +6,9 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/kii-hqax-rwx]
 - Quarta-feira, 08h00-08h50;
 - Sexta-feira, 10h00-10h50.
 
-
-
 ### Tópicos com atividades ativas
+
+> **Qual a diferença entre *Modelo de Dados* e *Esquema de Banco de Dados* ?**
 
 - [Tópico 01](./topicos/topico-01.md) (Data limite: 09/08/2021 23:59:59)<br>
 - [Tópico 02](./topicos/topico-02.md) (Data limite: 09/08/2021 23:59:59)<br>
