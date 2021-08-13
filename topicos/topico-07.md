@@ -74,17 +74,6 @@ Responda segundo o modelo:<br>
 ...<br>
 Obs.: evite respostas tais como "(a) 5", pois não serão analisadas pelo professor.
 
-RESPOSTA:<br>
-**(a)**  Tupla ou n-tupla<br>
-**(b)**  Relação<br>
-**(c)**  Cardinalidade de domínio de atributo<br>
-**(d)**  Restrição de integridade de entidade<br>
-**(e)**  Restrição de integridade referencial<br>
-**(f)**  Esquema de banco de dados relacional<br>
-**(g)**  Banco de dados _vs._ Instância de banco de dados
-**(h)**  Esquema de relação<br>
-**(i)**  Relação<br>
-
 ## Artefatos
 
 1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bxx, cujo título é "Tópico 07", para indicar suas reflexões iniciais sobre conceitos do *modelo relacional*.
