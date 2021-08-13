@@ -50,7 +50,7 @@ Para o Modelo Relacional (MR), um *checklist* com a maioria dos conceitos deste 
 
 Esses conceitos serão empregados nos próximos tópicos. Contudo, desde já é mandatório que sejam lidos e estudados no Capítulo 3 do livro sugerido[1]. 
 
-## Atividade (data limite: **xx/xx/xxxx 23h59min59s**)
+## Atividade (data limite: **22/08/2021 23h59min59s**)
 
 Dentre os conceitos presentes no **_Checklist_ sobre o Modelo Relacional** acima, alguns deles são apresentados abaixo:
 
@@ -64,7 +64,7 @@ Dentre os conceitos presentes no **_Checklist_ sobre o Modelo Relacional** acima
 **(h)**  R(A<sub>1</sub>, A<sub>2</sub>, ...,A<sub>n</sub>)<br>
 **(i)**  Conjunto de n-tuplas: { t<sub>1</sub>, t<sub>2</sub>, ..., t<sub>m</sub> }
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bxx, com o título "Tópico 07", para responder:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bia, com o título "Tópico 07", para responder:  
 1. Observe os itens acima de (a) até (i).<br>
 Para cada dos itens acima, identifique o conceito correspondente no *checklist*.<br>
 Responda segundo o modelo:<br>
@@ -76,7 +76,7 @@ Obs.: evite respostas tais como "(a) 5", pois não serão analisadas pelo profes
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bxx, cujo título é "Tópico 07", para indicar suas reflexões iniciais sobre conceitos do *modelo relacional*.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bia, cujo título é "Tópico 07", para indicar suas reflexões iniciais sobre conceitos do *modelo relacional*.
 
 ### Bibliografia
 
