@@ -12,6 +12,9 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/kii-hqax-rwx]
 
 - [Tópico 07](./topicos/topico-07.md) (Data limite: 22/08/2021 23:59:59)<br>
 - [Tópico 08](./topicos/topico-08.md) (Data limite: 22/08/2021 23:59:59)<br>
+- [Tópico 09](./topicos/topico-09.md) (Data limite: 29/08/2021 23:59:59)<br>
+- [Tópico 10](./topicos/topico-10.md) (Data limite: 29/08/2021 23:59:59)<br>
+- [Tópico 11](./topicos/topico-11.md) (Data limite: 29/08/2021 23:59:59)<br>
 - [Todos os tópicos](topicos/topicos.md)
 
 ### Avisos ativos
