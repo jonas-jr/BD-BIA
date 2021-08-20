@@ -24,4 +24,3 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/kii-hqax-rwx]
 <br>
 <br>
 <img src="./media/franki-chamaki-1K6IQsQbizI-unsplash.jpg" width="350">
-
