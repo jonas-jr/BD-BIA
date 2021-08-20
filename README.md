@@ -21,7 +21,6 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/kii-hqax-rwx]
 
 - O Simpósio Brasileiro de Banco de Dados, edição 2021, está próximo: [SBBD](https://sbbd.org.br/2021/)
 - Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
-- Importante: O **Tópico T01** se refere à criação de um repositório **público** no **GitHub** para cada aluno.
 <br>
 <br>
 <img src="./media/franki-chamaki-1K6IQsQbizI-unsplash.jpg" width="350">
