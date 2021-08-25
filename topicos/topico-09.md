@@ -29,7 +29,7 @@ CATEGORIA
 | **esporte** | Material esportivo |
 
 PRODUTO
-| CodProduto | Descrição | Preço | _Categ_ |
+| <ins>CodProduto</ins> | Descrição | Preço | _Categ_ |
 |-|-|-|-|
 | **1234** | Lápis | 0.70 | _papel_ |
 | **1111** | Bola | 20.00 | _esporte_ |
