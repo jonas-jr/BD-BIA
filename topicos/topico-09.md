@@ -39,7 +39,7 @@ PRODUTO
 
 ### Operação SELEÇÃO (SELECT)
 
-A **Operação SELEÇÃO** é usada para obter um subconjunto das _tuplas_ de uma relação, as quais devem satisfazer a um **predicado de seleção** (condição de seleção):
+A **Operação SELEÇÃO** é usada para obter um **subconjunto** das _tuplas_ de uma relação, as quais devem satisfazer a um **predicado de seleção** (condição de seleção):
 - O símbolo **σ** identifica a operação.
 - O número de _tuplas_ resultante da operação é igual ou menor ao número de _tuplas_ da entrada.
 
