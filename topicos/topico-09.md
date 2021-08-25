@@ -20,7 +20,7 @@ Sobre as **Operações da Álgebra Relacional**:
 
 ### Ilustração do BD Simples
 
-Para exemplificar algumas das operações da Álgebra Relacional, considere a ilustração a seguir, referente a um banco de dados simples (**BD Simples**).
+Para exemplificar algumas das operações da Álgebra Relacional, considere a **ilustração** a seguir, referente a um banco de dados simples (**BD Simples**).
 
 CATEGORIA
 | CodCateg | Nome |
