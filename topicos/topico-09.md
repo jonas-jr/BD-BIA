@@ -23,7 +23,7 @@ Sobre as **Operações da Álgebra Relacional**:
 Para exemplificar algumas das operações da Álgebra Relacional, considere a **ilustração** a seguir, referente a um banco de dados simples (**BD Simples**).
 
 CATEGORIA
-| CodCateg | Nome |
+| <ins>CodCateg</ins> | Nome |
 |-|-|
 | **papel** | Papelaria e escritório |
 | **esporte** | Material esportivo |
