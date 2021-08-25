@@ -184,11 +184,11 @@ _<<apenas para ilustrar, pois ainda não estudamos o modelo entidade-relacioname
 <img src="../media/fig-der-simples-1.jpg" width="350">
 
 O projetista de banco de dados analisou o diagrama acima e criou o esquema lógico, conforme abaixo:<br>
-&#8718; PRODUTO(**CodProduto**, Descrição, Preço, Categ)<br>
-&#8718; CATEGORIA(**CodCateg**, Nome)<br>
+&#8718; PRODUTO(<ins>CodProduto</ins>, Descrição, Preço, Categ)<br>
+&#8718; CATEGORIA(<ins>CodCateg</ins>, Nome)<br>
 &#8718; PRODUTO(Categ) REFERENCIA CATEGORIA(CodCateg)<br>
 Noutras palavras:<br>
-&#8718; os esquemas de relação PRODUTO(CodProduto, Descrição, Preço, Categ) e CATEGORIA(CodCateg, Nome);<br>
+&#8718; os esquemas de relação PRODUTO(<ins>CodProduto</ins>, Descrição, Preço, Categ) e CATEGORIA(<ins>CodCateg</ins>, Nome);<br>
 &#8718; as chaves primárias (PKs) _CodProduto_ e _CodCateg_ para PRODUTO e CATEGORIA, respectivamente;<br>
 &#8718; o atributo _Categ_ é uma chave estrangeira (FK) em PRODUTO que referencia CATEGORIA.
 
