@@ -113,8 +113,8 @@ OU<br>
 ## Atividade (data limite: **29/08/2021 23h59min59s**)
 
 Considere o esquema lógico do **BD Simples**:<br>
-&#8718; PRODUTO(CodProduto, Descrição, Preço, _Categ_), cuja chave primária (PK) é **CodProduto**;<br>
-&#8718; CATEGORIA(CodCateg, Nome), cuja chave primária (PK) é **CodCateg**;<br>
+&#8718; PRODUTO(<ins>CodProduto</ins>, Descrição, Preço, _Categ_), cuja chave primária (PK) é **CodProduto**;<br>
+&#8718; CATEGORIA(<ins>CodCateg</ins>, Nome), cuja chave primária (PK) é **CodCateg**;<br>
 &#8718; PRODUTO(Categ) REFERENCIA CATEGORIA(CodCateg).
 
 Considere, também, o [conteúdo do] banco de dados na figura que ilustra **PRODUTO CARTESIANO Exemplo 1**:<br>
