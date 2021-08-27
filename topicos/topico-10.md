@@ -106,7 +106,7 @@ OU<br>
 ```diff
 + Um banco de dados relacional tipicamente possui muitas tuplas.
 - Fatos do mundo real estão decompostos em várias tuplas.
-+ Cada tupla se associa com, pelo menos, uma outra tupla.
++ Cada tupla se associa comumente com, pelo menos, uma outra tupla.
 - A Operação JUNÇÃO combina tuplas relacionadas entre si.
 ```
 
