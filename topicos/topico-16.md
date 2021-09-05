@@ -149,4 +149,4 @@ Para cada dependente, apresente o nome do dependente e o primeiro e último nome
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bia, cujo título é "Tópico 16", para entender e usar as estruturas básicas de consultas em SQL.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bia, cujo título é "Tópico 16" para, após entender e usar as estruturas básicas de consultas em SQL, resolver uma consulta ao **BD Empresa**.
