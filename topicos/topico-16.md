@@ -118,7 +118,7 @@ O exemplo abaixo se refere a algumas das funções **específicas** do Sistema *
 |-|-|
 |DEPTO_P ← σ <sub>Dnome='Pesquisa'</sub> (DEPARTAMENTO)<br>AUX ← FUNCIONARIO ⨝ <sub>Dnr=Dnumero</sub> DEPTO_P<br>π <sub>Pnome, Unome, Salario</sub> (AUX)|SELECT Pnome, Unome, Salario <br>FROM FUNCIONARIO, DEPARTAMENTO <br>WHERE Dnr=Dnumero AND Dnome='Pesquisa'<br><br>SELECT Pnome, Unome, Salario <br>FROM FUNCIONARIO JOIN DEPARTAMENTO <br>&nbsp;&nbsp;&nbsp;&nbsp;ON Dnr=Dnumero <br>WHERE Dnome='Pesquisa'|
 
-## Atividade (data limite: **xx/xx/xxxx 23h59min59s**)
+## Atividade (data limite: **12/09/2021 23h59min59s**)
 
 Veja o conteúdo do arquivo [empresa.sql](../data/empresa.sql):
 - O conteúdo do arquivo possui comandos para a **definição** (criação das estruturas de dados) e **construção** (carga inicial) do **BD Empresa**.
@@ -138,7 +138,7 @@ Vamos executar o conteúdo do arquivo [empresa.sql](../data/empresa.sql), tal qu
 Pronto, o **BD Empresa** foi criado e está pronto para ser manipulado (usado).<br>
 **Execute cada consulta apresentada nos exemplos acima**
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bxx, com o título "Tópico 16", para responder:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bia, com o título "Tópico 16", para responder:  
 
 1. Você consegue executar e entender cada consulta apresentada nos exemplos?<br>Favor selecionar uma das respostas a seguir:
    - "Sim, eu consigo executar e entender cada consulta apresentada nos exemplos", ou
@@ -148,4 +148,4 @@ P.S.: O [conteúdo do] banco de dados criado - BD Empresa - é o mesmo conteúdo
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bxx, cujo título é "Tópico 16", para entender e usar as estruturas básicas de consultas em SQL.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bia, cujo título é "Tópico 16", para entender e usar as estruturas básicas de consultas em SQL.
