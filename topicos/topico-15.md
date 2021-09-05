@@ -98,7 +98,7 @@ Pronto, o **BD Empresa** foi criado e está pronto para ser manipulado (usado).<
   - substitua _<nome_relação>_ por:
     - FUNCIONARIO, DEPARTAMENTO, LOCALIZACAO_DEP, PROJETO, TRABALHA_EM, DEPENDENTE.
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bcc, com o título "Tópico 15", para responder:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bia, com o título "Tópico 15", para responder:  
 
 1. Você consegue criar o **BD Empresa** e consultar o conteúdo das relações, usando a ferramenta _SQLiteOnline_, ou outra ferramenta?<br>Favor selecionar uma das respostas a seguir:
    - "Sim, eu consigo criar o **BD Empresa** e consultar o conteúdo das relações", ou
@@ -108,4 +108,4 @@ P.S.: O [conteúdo do] banco de dados criado - BD Empresa - é o mesmo conteúdo
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bcc, cujo título é "Tópico 15", para ter o primeiro contato com comandos da SQL.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bia, cujo título é "Tópico 15", para ter o primeiro contato com comandos da SQL.
