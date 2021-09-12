@@ -104,4 +104,4 @@ Se a relação FUNCIONARIO possui 6 (seis) valores distintos de salário, então
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-biax, cujo título é "Tópico 18", para entender e usar Funções Agregadas, Agrupamento de dados e Ordenação de Dados em consultas da SQL.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bia, cujo título é "Tópico 18", para entender e usar Funções Agregadas, Agrupamento de dados e Ordenação de Dados em consultas da SQL.
