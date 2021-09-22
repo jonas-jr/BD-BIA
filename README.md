@@ -8,8 +8,6 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/kii-hqax-rwx]
 
 ### Tópicos com atividades ativas
 
-- [Tópico 18](./topicos/topico-18.md) (Data limite: 19/09/2021 23:59:59)<br>
-- [Tópico 19](./topicos/topico-19.md) (Data limite: 19/09/2021 23:59:59)<br>
 - [Tópico 20](./topicos/topico-20.md) (Data limite: 26/09/2021 23:59:59)<br>
 - [Tópico 21](./topicos/topico-21.md) (Data limite: 26/09/2021 23:59:59)<br>
 - [Todos os tópicos](topicos/topicos.md)<br>
