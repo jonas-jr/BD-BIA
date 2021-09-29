@@ -5,7 +5,7 @@
 
 <img src="../media/fig-projeto.jpg" width="320">
 
-O **Modelo Entidade Relacionamento (MER)** é comumente aplicado na etapa *projeto conceitual do banco de dados*. O projeto conceitual lida com a *especificação conceitual do banco de dados* (**esquema conceitual**), que é uma representação em uma abstração de alto-nível nível, cujo entendimento é mais próximo de usuários não especializados.
+O **Modelo Entidade Relacionamento (MER)** é comumente aplicado na etapa *projeto conceitual do banco de dados*. O projeto conceitual lida com a *especificação conceitual do banco de dados* (**esquema conceitual**), que é uma representação em uma abstração de alto-nível, cujo entendimento é mais próximo de usuários não especializados.
 
 O **projeto conceitual** pelo emprego do **MER** busca abstrair uma **coleção de elementos conceituais** pertinentes aos dados. Essa abstração de elementos conceituais envolve o entendimento das responsabilidades informacionais próprias do banco dados. Cada desses elementos conceituais é inicialmente classificado como **[tipo de] entidade**, **[tipo de] relacionamento entre entidades** ou **atributo**. O processo evolui de forma iterativa e incremental, potencialmente com alterações na classificação inicial, até que amadureça uma representação conceitual do banco de dados, ou seja, um esquema conceitual.
 
@@ -54,15 +54,15 @@ Para o Modelo Entidade Relacionamento (MER), um *checklist* com a maioria dos co
 
 Esses conceitos serão empregados nos próximos tópicos. Contudo, desde já é mandatório que sejam lidos e estudados os Capítulos 7 e 8 do livro sugerido[1].
 
-### Elementos Relevantes X Tipo de Entidade X Tipo de Relacionamento X Atributo
+### Elementos Conceituais (Relevantes ao BD) X Tipo de Entidade X Tipo de Relacionamento X Atributo
 
-Ao empregar o Modelo Entidade Relacionamento (MER) no projeto conceitual do banco de dados, é necessário **identificar os elementos relevantes pertinentes ao banco de dados (em estudo/análise)**, a partir dos requisitos de dados da aplicação. Sobre tais elementos relevantes, algumas questões são preeminentes:
-1. Que elementos relevantes são categorizados como **tipo de entidade**?
-1. Que elementos relevantes são categorizados como **tipo de relacionamento**?
-3. Que elementos relevantes são categorizados como **atributos**?
+Ao empregar o Modelo Entidade Relacionamento (MER) no projeto conceitual do banco de dados, é necessário **identificar os elementos conceituais pertinentes (elementos relevantes) ao banco de dados (em estudo/análise)**, a partir dos requisitos de dados da aplicação. Sobre tais elementos relevantes, algumas questões são preeminentes:
+1. Que elementos conceituais (relevantes ao BD) são categorizados como **tipo de entidade**?
+1. Que elementos conceituais (relevantes ao BD) são categorizados como **tipo de relacionamento**?
+3. Que elementos conceituais (relevantes ao BD) são categorizados como **atributos**?
 4. Que **regras de integridade** permeiam os elementos relevantes?
 
->A aplicação do MER no projeto conceitual de banco de dados requer a **descoberta dos elementos relevantes e sua classificação**, a saber: *tipo de entidade*, *tipo de relacionamento*, *atributo* e *restrição de integridade*. Essa classificação dar-se-á com melhorias sucessivas, pois trata-se de um processo:
+>A aplicação do MER no projeto conceitual de banco de dados requer a **descoberta dos elementos conceituais (relevantes ao BD) e sua classificação**, a saber: *tipo de entidade*, *tipo de relacionamento*, *atributo* e *restrição de integridade*. Essa classificação dar-se-á com melhorias sucessivas, pois trata-se de um processo:
 >- **Interativo.** Comunicação frequente entre projetistas, usuários e demais *stakeholders*.
 >- **Iterativo.** Várias *rodadas* de desenvolvimento em grupo, com resultados intermediários e *feedbacks*.
 >- **Evolutivo.** O esquema conceitual em si amadurece em decorrência da interação e da iteração.
