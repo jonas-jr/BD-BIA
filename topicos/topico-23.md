@@ -113,7 +113,7 @@ Se uma demanda informacional pode ser atendida a partir do esquema conceitual do
   - [ ] Que funcionários possuem o maior número de dependentes?
 
 >***Questão 02:* Os Subgrafos G<sup>&#8727;</sup> e G<sup>&#8727;&#8727;</sup>, apresentados acima, possuem o mesmo conjunto de vértices - &#123;DEPARTAMENTO, FUNCIONARIO&#125; - mas diferem em relação às arestas: TRABALHA_PARA e GERENCIA, respectivamente.**<br>
-Por que as demandas informacionais atendidas por G<sup>&#8727;</sup> não podem ser atendidads por G<sup>&#8727;&#8727;</sup>, e vice-versa?
+Por que várias das demandas informacionais atendidas por G<sup>&#8727;</sup> não podem ser atendidas por G<sup>&#8727;&#8727;</sup>, e vice-versa?
 
 A resposta à **Questão 02** está atrelada ao significado de cada elemento dos subgrafos, especificamente as arestas TRABALHA_PARA e GERENCIA.
 
