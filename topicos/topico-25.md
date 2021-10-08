@@ -14,7 +14,7 @@ Ao abstrair <ins>potenciais elementos conceituais</ins> no projeto de banco de d
 ### Preâmbulo
 
 >**Mudanças** são esperadas e típicas:
-- Cada decisão durante o projeto conceitual está sujeita a alterações durante a modelagem.<br>
+- Cada decisão pertinente ao projeto conceitual está sujeita a alterações durante processo.<br>
 Por exemplo, um **elemento conceitual** inicialmente categorizado como ***atributo*** pode tornar-se um ***tipo de entidade*** no decorrer do processo, e vice-versa.
 
 >Por se tratar de um **processo interativo, iterativo e evolutivo**, comumente **três aprendizados** são compartilhados:
