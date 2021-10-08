@@ -1,7 +1,7 @@
 ## [Tópico T25] - Modelo Entidade Relacionamento (MER) - Decisões de Projeto
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)* &#9728;
 
-Ao abstrair potenciais elementos conceituais no projeto de banco de dados, a questão inicial é:
+Ao abstrair <ins>potenciais elementos conceituais</ins> no projeto de banco de dados, a questão inicial é:
 
 | **O *elemento conceitual* é um *tipo de entidade*, *um tipo de relacionamento* ou um *atributo*?** |
 | -------------------------------------------------------------------------------------------------- |
