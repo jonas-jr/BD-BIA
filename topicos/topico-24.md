@@ -71,8 +71,8 @@ Requisitos de dados:
 - cliente e motorista têm os mesmos atributos: RG, CPF, nome, data de nascimento, cor preferida;
 - algumas consultas típicas são:
   - quais os percursos que ainda não foram pagos?
-  - qual a média diária de percursos por cliente?
-  - qual a média diária de percursos por motorista?
+  - qual a quantidade média diária de percursos por cliente?
+  - qual a quantidade média diária de percursos por motorista?
   - qual o faturamento diário da empresa?
 
 Este é o seu primeiro **esquema conceitual**? Faça você mesmo, evite olhar respostas prontas.<br>
