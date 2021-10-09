@@ -11,14 +11,13 @@ Responda as questões abaixo:
    - Qual a identificação (atributo chave) do tipo de entidade ITEM DE VENDA?
    - Um mesmo produto pode ser vendido várias vezes ao mesmo cliente?
    - Um item de venda se refere a um produto?
-   - Qual o atributo chave em ITEM DE VENDA?
 
 ### Reflexões 02
 
 Que alterações no esquema conceitual (DER) atendem às seguintes consultas:
    - Qual o valor vendido a cada cliente?
    - Qual o produto teve maior quantidade de itens vendidos em um dado período?
-   - Qual o preço unitário de venda de cada produto na data em que o mesmo foi vendido?### Requisitos de dados - BD Empresa
+   - Qual o preço unitário de venda de cada produto na data em que o mesmo foi vendido?
 
 ### Reflexões 03
 
