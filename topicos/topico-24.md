@@ -78,6 +78,10 @@ Requisitos de dados:
 Este é o seu primeiro **esquema conceitual**? Faça você mesmo, evite olhar respostas prontas.<br>
 Convém citar Cora Coralina para esclarecer o objetivo da atividade:<br>"O que vale na vida não é o ponto de partida e sim a caminhada. Caminhando e semeando, no fim terás o que colher".
 
+RESPOSTA:
+
+<img src="../media/fig-der-uber.jpg" width="400">
+
 ## Artefatos
 
 1. Diretório **topico-24**, criado no repositório do estudante, contendo um arquivo com a imagem JPG do DER solicitado.
