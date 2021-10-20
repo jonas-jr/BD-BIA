@@ -12,8 +12,6 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/kii-hqax-rwx]
 - [Tópico 25a](./topicos/topico-25a.md)
 - [Tópico 25b](./topicos/topico-25b.md)
 - [Tópico 25c](./topicos/topico-25c.md)
-- [Tópico 26](./topicos/topico-26.md) (Data limite: 18/10/2021 23:59:59)<br>
-- [Tópico 27](./topicos/topico-27.md) (Data limite: 18/10/2021 23:59:59)<br>
 - [Tópico 28](./topicos/topico-28.md) (Data limite: 25/10/2021 23:59:59)<br>
 - [Tópico 29](./topicos/topico-29.md) (Data limite: 25/10/2021 23:59:59)<br>
 - [Todos os tópicos](topicos/topicos.md)<br>
