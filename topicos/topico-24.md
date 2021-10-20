@@ -80,7 +80,7 @@ Convém citar Cora Coralina para esclarecer o objetivo da atividade:<br>"O que v
 
 RESPOSTA:
 
-<img src="../media/fig-der-uber.jpg" width="400">
+<img src="../media/fig-der-uber.jpg" width="500">
 
 ## Artefatos
 
