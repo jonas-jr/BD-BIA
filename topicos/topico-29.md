@@ -16,7 +16,7 @@ Seja o tipo de relacionamento binário **R** no esquema conceitual (esquema ER),
 > Pergunta: Como mapear o tipo de relacionamento **R** para o modelo relacional?
 >> Resposta: As decisões de projeto em nível conceitual impactam na forma como o mapeamento é executado.
 
-Por exemplo, a restrição de participação (parcial ou total) e a restrição de cardinalidade (1:1, 1:N ou M:N) guiam as decisões em nível lógico (deccisões para o modelo relacional).
+Por exemplo, a restrição de participação (parcial ou total) e a restrição de cardinalidade (1:1, 1:N ou M:N) guiam as decisões em nível lógico (decisões para o modelo relacional).
 
 Em geral, **há três abordagens** de mapeamento possíveis:
 - **Abordagem de chave estrangeira**:
