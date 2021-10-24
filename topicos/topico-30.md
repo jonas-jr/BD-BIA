@@ -64,9 +64,9 @@ A aplicação desta regra ao esquema da figura acima resulta em (_realce em **ne
 
 <img src="../media/fig-mapeamento-relacionamento-6.jpg" width="450">
 
-## Atividade (data limite: **01/11/2021 23h59min59s**)
+## Atividade (data limite: **31/10/2021 23h59min59s**)
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bcc, com o título "Tópico 30", para responder: 
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bia, com o título "Tópico 30", para responder: 
 
 A atividade considera o DER do BD Universidade, conforme ilustrado na figura a seguir.
 
@@ -86,4 +86,4 @@ Observações importantes:<br>
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bcc, cujo título é "Tópico 30", para exercitar o mapeamento entre esquemas segundo o Modelo Entidade Relacionamento e segundo o Modelo relacional.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2021-1-bia, cujo título é "Tópico 30", para exercitar o mapeamento entre esquemas segundo o Modelo Entidade Relacionamento e segundo o Modelo relacional.
