@@ -64,6 +64,13 @@ A aplicação desta regra ao esquema da figura acima resulta em (_realce em **ne
 
 <img src="../media/fig-mapeamento-relacionamento-6.jpg" width="450">
 
+|<ins>CodProduto</ins>|CodVendedor|<ins>CodCliente</ins>|Qtde|
+|-|-|-|-|
+|P1|V1|C1|10|
+|P1|V1|C2|9|
+|P2|V1|C1|11|
+|P3|V3|C3|11|
+
 ## Atividade (data limite: **31/10/2021 23h59min59s**)
 
 Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bia, com o título "Tópico 30", para responder: 
