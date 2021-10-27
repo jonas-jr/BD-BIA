@@ -47,7 +47,7 @@ Para cada tipo de relacionamento n-ário **R**, tal que **n > 2**, criar uma nov
   - incluir **Key<sub>2</sub>** que referencia **T<sub>2</sub>**;
   - incluir **Key<sub>3</sub>** que referencia **T<sub>3</sub>**.
 - A chave primária de **S** é, em geral, uma combinação de todas as chaves estrangeiras que fazem referência às relações que representam os tipos de entidade participantes:
-  - **S<sub>1</sub> (Key<sub>1</sub>, Key<sub>2</sub>, Key<sub>3</sub>) IS PRIMARY KEY**
+  - **S (Key<sub>1</sub>, Key<sub>2</sub>, Key<sub>3</sub>) IS PRIMARY KEY**
     - entretanto, se as restrições de cardinalidade em qualquer um dos tipos de entidade **E<sub>i</sub>** (que participam de **R**) for 1, a chave primária de **S** não precisa incluir o atributo de chave estrangeira que faz referência à relação **T<sub>i</sub>**.
 - Incluir na relação **S** todos os atributos simples (ou componentes simples de atributos compostos) do tipo de relacionamento **R**.
 
