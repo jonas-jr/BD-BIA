@@ -31,7 +31,7 @@ Sobre o **BD Simples**, a aplicação desta opção resulta em:
 |Esquema de relação|
 |-|
 |PESSOA (CodPes, Fone)<br>PESSOA (CodPes) IS PRIMARY KEY|
-|PESSOAJURIDICA (CodPes, CGC, RazaoSocial, NomeFantasia)<br>PESSOAJURIDICA (CodPes) IS PRIMARY KEY<br>PESSOAJURIDICA (CodCli) REFERENCES PESSOA (PesCli)|
+|PESSOAJURIDICA (CodPes, CGC, RazaoSocial, NomeFantasia)<br>PESSOAJURIDICA (CodPes) IS PRIMARY KEY<br>PESSOAJURIDICA (CodPes) REFERENCES PESSOA (CodPes)|
 |PESSOAFISICA (CodPes, CPF, Nome, DataNasc, Sexo)<br>PESSOAFISICA (CodPes) IS PRIMARY KEY<br>PESSOAFISICA (CodPes) REFERENCES PESSOA (CodPes)|
 
 #### OPÇÃO 2: Relações múltiplas - restrito a subclasses
