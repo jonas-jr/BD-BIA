@@ -34,7 +34,8 @@ CREATE TABLE FUNCIONARIO (<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Cpf_supervisor CHAR(9) NULL, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Dnr INT NOT NULL, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; PRIMARY KEY (Cpf), <br>
-&nbsp;&nbsp;&nbsp;&nbsp; FOREIGN KEY (Cpf_supervisor) REFERENCES FUNCIONARIO(Cpf) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; FOREIGN KEY (Cpf_supervisor) REFERENCES FUNCIONARIO(Cpf), <br>
+&nbsp;&nbsp;&nbsp;&nbsp; FOREIGN KEY (Dnr) REFERENCES DEPARTAMENTO(Dnumero) <br>
 ); <br>
 
 #### Comandos DDL Exemplo 2
