@@ -11,6 +11,8 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/kii-hqax-rwx]
 - [Tópico 25c](./topicos/topico-25c.md)
 - [Tópico 30](./topicos/topico-30.md) (Data limite: 31/10/2021 23:59:59)<br>
 - [Tópico 31](./topicos/topico-31.md) (Data limite: 31/10/2021 23:59:59)<br>
+- [Tópico 32](./topicos/topico-32.md) (Data limite: 07/11/2021 23:59:59)<br>
+- [Tópico 33a](./topicos/topico-33a.md)
 - [Todos os tópicos](topicos/topicos.md)<br>
 - [Análise dos tópicos](media/bd-2021-1-bia-resumo-analise.pdf)
 
