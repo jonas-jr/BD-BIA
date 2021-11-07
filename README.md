@@ -8,9 +8,10 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/kii-hqax-rwx]
 
 ### Tópicos com atividades ativas
 
-- [Tópico 25d](./topicos/topico-25d.md)
 - [Tópico 32](./topicos/topico-32.md) (Data limite: 07/11/2021 23:59:59)<br>
 - [Tópico 33a](./topicos/topico-33a.md)
+- [Tópico 34a](./topicos/topico-34a.md)
+- [Tópico 34b](./topicos/topico-34b.md)
 - [Todos os tópicos](topicos/topicos.md)<br>
 - [Análise dos tópicos](media/bd-2021-1-bia-resumo-analise.pdf)
 
