@@ -11,7 +11,7 @@ Algumas observações pertinenetes:
   - por exemplo, as fontes podem alterar seus formatos de dados e padrões de acesso a qualquer momento, com impacto reduzido às estratégias de integração adotadas.
 - Envolve fontes de dados que foram desenvolvidas independentemente umas das outras:
   - dados em bases relacionais, arquivos com conteúdo não estruturado, arquivos binários, arquivos JSON, arquivos XML, etc.
-  - dados disponíveis por sistemas de gerencamento, por conexão/serviço Web, por acesso simples a um diretório, etc.
+  - dados disponíveis por sistemas de gerenciamento, por conexão/serviço Web, por acesso simples a um diretório, etc.
 - O acesso aos dados podem requerer privacidade:
   - acesso restrito a usuários e a operações sobre os dados;
   - acesso apropriado no caso de dados sensíveis.
